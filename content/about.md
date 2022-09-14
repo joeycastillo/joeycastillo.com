@@ -9,7 +9,7 @@ Joey began [developing apps](/apps) for the iPhone in 2009. Formerly a Senior S
 
 ## Objects
 
-In 2019 Joey began branching out into hardware and electrical engineering. He created create [Oddly Specific Objects](https://www.oddlyspecificobjects.com): a division dedicated to designing, manufacturing and selling comprehensible open source gadgets for hobbyists and creative technologists.
+In 2019 Joey began branching out into hardware and electrical engineering. He created [Oddly Specific Objects](https://www.oddlyspecificobjects.com): a division dedicated to designing, manufacturing and selling comprehensible open source gadgets for hobbyists and creative technologists.
 
 ## Contact
 

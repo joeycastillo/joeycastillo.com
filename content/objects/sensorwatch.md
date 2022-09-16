@@ -14,11 +14,11 @@ Sensor Watch is both an open source hardware project and a product available for
 * In the months following, I built a [low-level library](https://joeycastillo.github.io/Sensor-Watch/) for interacting with the hardware.
 * By October I designed [Movement](https://www.sensorwatch.net/docs/movement/), a firmware framework that allowed for community contributions.
 * The first community contributions happened in November: a [stopwatch complication](https://github.com/joeycastillo/Sensor-Watch/pull/21) and a [TOTP code generator](https://github.com/joeycastillo/Sensor-Watch/pull/23), both from [Wesley Ellis](https://twitter.com/tahnok).
-* That same month, I flew to Augusta, Georgia to [supervise the assembly of 100 boards](https://www.youtube.com/watch?v=6T1hul6tOjA)
+* That same month I flew to Augusta, Georgia to [supervise the assembly of 100 boards](https://www.youtube.com/watch?v=6T1hul6tOjA)
 * In January 2022 I launched the project [on Crowd Supply](https://www.crowdsupply.com/oddly-specific-objects/sensor-watch), where it garnered over 750 backers and more than 250 preorders.
-* I personally [packed and shipped the first 90 backer boards](https://www.crowdsupply.com/oddly-specific-objects/sensor-watch/updates/blue-boards-shipping-check-your-address-green-boards-delayed-and-other-news-of-the-watch) in April 2022.
+* I personally [packed and shipped the first 89 backer boards](https://www.crowdsupply.com/oddly-specific-objects/sensor-watch/updates/blue-boards-shipping-check-your-address-green-boards-delayed-and-other-news-of-the-watch) in April 2022.
 
-Along the way I generated copious amounts of documentation, including a [Watch Interface Guidelines](https://www.sensorwatch.net/docs/wig/) document (like Apple's HIG) talking through the unique UX considerations associated with the simple display, limited inputs and low power requirements. I also did marketing, copywriting and [web design](https://www.sensorwatch.net) for the project, as well as the logistics involved in manufacturing and shipping more than 2,000 individually packaged boards during a year of historic parts shortage.
+Along the way I generated copious amounts of documentation, including a [Watch Interface Guidelines](https://www.sensorwatch.net/docs/wig/) document (like Apple's HIG) talking through the unique UX considerations associated with the simple display, limited inputs and low power requirements. I also did marketing, copywriting and [web design](https://www.sensorwatch.net) for the project.
 
 As of September, I am on track to ship the remaining boards by the end of 2022.
 

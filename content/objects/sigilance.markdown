@@ -11,7 +11,7 @@ The SIGILANCE project predates Oddly Specific Objects by nearly a decade, but it
 
 In 2014, I began working on a concept for secure cryptographic key generation via small, purpose-built systems. After testing and iterating on the concept, this evolved into SIGILANCE, an NFC-enabled OpenPGP smart card that brought smart card cryptography to mobile devices at a lower price point than existing solutions.
 
-{{< figure src="/images/20150701-the-card.jpg" alt="A product shot of the SIGILANCE OpenPGP Smart Card, sitting on top of an RFID-blocking sleeve for the same." position="left" caption="The SIGILANCE OpenPGP Smart Card." captionPosition="left" >}}
+{{< figure src="/images/objects-sigilance-the-card.jpg" alt="A product shot of the SIGILANCE OpenPGP Smart Card, sitting on top of an RFID-blocking sleeve for the same." position="left" caption="The SIGILANCE OpenPGP Smart Card." captionPosition="left" >}}
 
 ## The Case for Smart Cards
 
